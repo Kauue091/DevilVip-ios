@@ -1,0 +1,8 @@
+Package: com.7wins.devil.vip
+Name: DEVIL VIP ESP HS
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Sistema de ESP e HS Peito para iOS Assinado.
+Maintainer: 7WINS-ADM-1311
+Author: DEVIL-7WINS
